@@ -9,6 +9,12 @@ Frontend will soon be moved to ReactJS or React with Typescript.
 
 ## Setup
 
+* If you had already cloned/downloaded the repository, then pull the current changes using:
+```shell
+git pull https://github.com/jkuatdsc/dsc-blog.git
+```
+Lest....
+
 * First, clone the repository:
 
 ```sh
